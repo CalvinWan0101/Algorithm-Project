@@ -44,7 +44,7 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
 
 ## Flowchart
 - [Flowchart](https://whimsical.com/WchrUUDPRet34Ubq93P8aS)
-![Flowchart]()
+![Flowchart](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Algorithm/Flowchart.png)
 
 ## TestCase
 ```python
