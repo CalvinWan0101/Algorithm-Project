@@ -123,7 +123,7 @@
 
 ### Time Complexity:
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled.png)
 
 ## Example 1. 三男三女
 
@@ -131,7 +131,7 @@
 
 喜好排序
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%201.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%201.png)
 
 ### Iteration 1
 
@@ -139,52 +139,52 @@
 - 允許兩個以上的男生向同一個女生求婚
 - 不能向同一個女生女生求婚兩次
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%202.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%202.png)
 
 - 只有 Bob 向 Becky ⇒ Becky 與 Bob結婚
 - Alex 與 Chris 同時向 Ada 求婚
     - Ada 選擇優先序位較高的 Alex
     - Chris 孤家寡人接受下一輪分發
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%203.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%203.png)
 
 - 如果一個已婚的女生被另外一個男生求婚
     - 判斷這個男生是否比自己的老公好
         - 若是好 ⇒ 則把老公換掉
         - 若是不好 ⇒ 則拒絕
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%204.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%204.png)
 
 ### Iteration 2
 
 - Chris 向已婚的 Becky 求婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%205.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%205.png)
 
 - Becky 判斷 Chris 的優先級是否高於 Bob
 - 是 ⇒ Becky 拒絕求婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%206.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%206.png)
 
 ### Iteration 3
 
 - Chris 向 Cindy 求婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%207.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%207.png)
 
 - Cindy 接受
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%208.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%208.png)
 
 ### End of Procedure
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%209.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%209.png)
 
 ## Example 2. 四男四女
 
 ### Input
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2010.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2010.png)
 
 ### Iteration 1
 
@@ -192,87 +192,87 @@
 - 允許兩個以上的男生向同一個女生求婚
 - 不能向同一個女生女生求婚兩次
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2011.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2011.png)
 
 - 只有 Chris 向 Becky 求婚 ⇒ 結婚
 - 只有 David 向 Cindy 求婚 ⇒ 結婚
 - Alex 同時與 Bob 向 Ada 求婚
     - Alex 優先級比 Bob 高 ⇒ Ada 與 Alex 結婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2012.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2012.png)
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2013.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2013.png)
 
 ### Iteration 2
 
 - Bob 向已婚的 Becky 求婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2014.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2014.png)
 
 - Becky 更喜歡老公 Chris
 - 拒絕求婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2015.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2015.png)
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2016.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2016.png)
 
 ### Iteration 3
 
 - Bob 向已婚的 Cindy 求婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2017.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2017.png)
 
 - Cindy 更喜歡 Bob
 - Cindy 與 Bob 結婚
 - Cindy 與老公 David 離婚
 - David 成為綠帽俠
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2018.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2018.png)
 
 - 現在 David 單身
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2019.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2019.png)
 
 ### Iteration 4
 
 - David 向已婚的 Ada 求婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2020.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2020.png)
 
 - Ada 更喜歡老公 Alex
 - 拒絕求婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2021.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2021.png)
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2022.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2022.png)
 
 ### Iteration 5
 
 - David 向已婚的 Becky 求婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2023.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2023.png)
 
 - Becky 比起老公 Chris 她更喜歡 David
 - Becky 與老公 Chris 離婚
 - Becky 與 David 結婚
 - Chris 成為綠帽俠
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2024.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2024.png)
 
 - 現在 Chris 單身
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2025.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2025.png)
 
 ### Iteration 6
 
 - Chris 向 Diana 求婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2026.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2026.png)
 
 - 雖然 Diana 不喜歡 Chris，但她還是接受了 Chris 的求婚
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2027.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2027.png)
 
 ### End of Procedure
 
-![Untitled](Gale-Shapley%20%E8%88%87%20Stable%20Marriage%204bb30e60fc8a40ac9ece665a1538726d/Untitled%2028.png)
+![Untitled](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Gale_Shapley_Note/img/Untitled%2028.png)
