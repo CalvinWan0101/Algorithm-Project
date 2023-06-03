@@ -28,6 +28,6 @@ def get_student_data():
         for j in range(2, len(input_data[i]), 2):
             if input_data[i][j] != "None":
                 input_data[i][j] = int(input_data[i][j])
-                # input_data[i][j] = str(input_data[i][j])
+                input_data[i][j] = str(input_data[i][j])
         
     return input_data
