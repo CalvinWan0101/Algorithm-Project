@@ -41,6 +41,11 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
 - [Data-Structure-Final-Project](https://github.com/H-Scorpion/Data-Structure-Final-Project)
 - [中文姓名產生器 v3.4](http://www.richyli.com/name/index.asp)
 
+
+## Flowchart
+- [Flowchart](https://whimsical.com/WchrUUDPRet34Ubq93P8aS)
+![Flowchart]()
+
 ## TestCase
 ```python
 ['台灣大學', '醫學系', '1001', 2]
