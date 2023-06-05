@@ -41,6 +41,7 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
 - [婚姻中的賽局理論！從兩首古詩理解「穩定婚姻問題」](https://pansci.asia/archives/330654)
 - [14-5: 稳定婚配问题 Stable Marriage Problem](https://www.bilibili.com/video/BV1V44y167n3/?spm_id_from=333.788&vd_source=434422c653cb22ae533f5fa626e984c1)
 - [14-6: Gale-Shapley 算法 寻找稳定婚配](https://www.bilibili.com/video/BV1uq4y177Hc/?spm_id_from=333.788&vd_source=434422c653cb22ae533f5fa626e984c1)
+- [Economic analysis of Taiwan high school matching system](http://etd.lib.nsysu.edu.tw/ETD-db/ETD-search-c/view_etd?URN=etd-0530116-005800)
 
 
 ## Flowchart
