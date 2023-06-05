@@ -38,8 +38,9 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
 ## Reference
 - [大學聯考分發程式及其相關問題探討](http://ip194097.ntcu.edu.tw/ungian/Chokphin/Hoagu/hunhoat/hunhoat.htm)
 - [【電機專題】指考將至 你知道考試是怎麼分發的嗎 | 15分鐘搞定分發問題的演算法與資料結構！](https://youtu.be/Ss4w4jghqXc)
-- [Data-Structure-Final-Project](https://github.com/H-Scorpion/Data-Structure-Final-Project)
-- [中文姓名產生器 v3.4](http://www.richyli.com/name/index.asp)
+- [婚姻中的賽局理論！從兩首古詩理解「穩定婚姻問題」](https://pansci.asia/archives/330654)
+- [14-5: 稳定婚配问题 Stable Marriage Problem](https://www.bilibili.com/video/BV1V44y167n3/?spm_id_from=333.788&vd_source=434422c653cb22ae533f5fa626e984c1)
+- [14-6: Gale-Shapley 算法 寻找稳定婚配](https://www.bilibili.com/video/BV1uq4y177Hc/?spm_id_from=333.788&vd_source=434422c653cb22ae533f5fa626e984c1)
 
 
 ## Flowchart
