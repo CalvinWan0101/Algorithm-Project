@@ -29,5 +29,4 @@ def get_student_data():
             if input_data[i][j] != "None":
                 input_data[i][j] = int(input_data[i][j])
                 input_data[i][j] = str(input_data[i][j])
-        
     return input_data

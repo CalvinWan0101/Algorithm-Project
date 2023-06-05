@@ -23,8 +23,8 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
 2. ✅ File Reading:
     - `get_school_data()`
     - `get_student_data()`
-3. Distribution Algorithm
-4. Distribution Algorithm Optimization
+3. ✅ Distribution Algorithm
+4. ✅ Distribution Algorithm Optimization
 5. Validation
 6. Visual Analysis
 7. Report
@@ -43,29 +43,6 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
 
 
 ## Flowchart
-- [Flowchart](https://whimsical.com/WchrUUDPRet34Ubq93P8aS)
-![Flowchart](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Algorithm/Flowchart.png)
+[Flowchart](https://whimsical.com/WchrUUDPRet34Ubq93P8aS)
 
-## TestCase
-```python
-['台灣大學', '醫學系', '1001', 2]
-['台灣大學', '電機系', '1002', 3]
-['清華大學', '化學系', '2004', 2]
-['清華大學', '數學系', '2008', 4]
-['政治大學', '外交系', '3009', 2]
-```
-```python
-['11080002', '楊順亦', '2004', 0, '2008', 0, '1002', 3, 'None', 'None', 'None', 'None', 'None', 'None']
-['11080003', '劉雅書', '1001', 0, '1002', 0, '2008', 0, 'None', 'None', 'None', 'None', 'None', 'None']
-['11080004', '郭姵紫', '2004', 1, '3009', 0, 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None']
-['11080005', '陳怡喬', '2008', 3, '2004', 2, '3009', 1, 'None', 'None', 'None', 'None', 'None', 'None']
-['11080006', '林宜禾', '2008', 0, '1001', 1, 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None']
-['11080007', '曹昀志', '3009', 2, '1002', 2, 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None']
-['11080008', '李偉昀', '3009', 0, '2004', 3, '2008', 2, 'None', 'None', 'None', 'None', 'None', 'None']
-['11080009', '陳雅玲', '1002', 0, '2004', 0, '2008', 0, 'None', 'None', 'None', 'None', 'None', 'None']
-['11080010', '陳建緯', '2008', 4, '3009', 3, 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None']
-['11080011', '毛雲誠', '1001', 2, '1002', 1, 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None']
-['11080012', '許俊玲', '2008', 1, '1002', 0, '1001', 3, 'None', 'None', 'None', 'None', 'None', 'None']
-['11080013', '王梅智', '2004', 4, '3009', 4, '1001', 0, 'None', 'None', 'None', 'None', 'None', 'None']
-['11080014', '林佳蓉', '2004', 5, 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None']
-```
+![Flowchart](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Algorithm/Flowchart2.png)
