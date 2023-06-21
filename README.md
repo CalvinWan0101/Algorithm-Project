@@ -18,22 +18,16 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
 - 遇備取名次相同致分發結果超過原招生名額時，則一併增額分發至該校系。
 - 增額之名額如屬教育部核定當學年度各系組之新生招生名額者，應由當學年度大學分發入學招生名額調整流用。
 
-## Task Assignment
-1. ✅ Generate Test Data
-2. ✅ File Reading:
-    - `get_school_data()`
-    - `get_student_data()`
-3. ✅ Distribution Algorithm
-4. ✅ Distribution Algorithm Optimization
-5. Validation
-6. Visual Analysis
-7. Report
-
 ## Contributors
 - 電資二 110820012 宋典諺
 - 電資二 110820040 蔡宇倫
 - 電資二 110820058 萬祥瑞
 - 電資二 110820059 林于喬
+
+## Flowchart
+[Flowchart](https://whimsical.com/WchrUUDPRet34Ubq93P8aS)
+
+![Flowchart](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Algorithm/Flowchart2.png)
 
 ## Reference
 - [大學聯考分發程式及其相關問題探討](http://ip194097.ntcu.edu.tw/ungian/Chokphin/Hoagu/hunhoat/hunhoat.htm)
@@ -42,9 +36,3 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
 - [14-5: 稳定婚配问题 Stable Marriage Problem](https://www.bilibili.com/video/BV1V44y167n3/?spm_id_from=333.788&vd_source=434422c653cb22ae533f5fa626e984c1)
 - [14-6: Gale-Shapley 算法 寻找稳定婚配](https://www.bilibili.com/video/BV1uq4y177Hc/?spm_id_from=333.788&vd_source=434422c653cb22ae533f5fa626e984c1)
 - [Economic analysis of Taiwan high school matching system](http://etd.lib.nsysu.edu.tw/ETD-db/ETD-search-c/view_etd?URN=etd-0530116-005800)
-
-
-## Flowchart
-[Flowchart](https://whimsical.com/WchrUUDPRet34Ubq93P8aS)
-
-![Flowchart](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Algorithm/Flowchart2.png)
