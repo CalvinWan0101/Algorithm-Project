@@ -25,8 +25,6 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
 - 電資二 110820059 林于喬
 
 ## Flowchart
-[Flowchart](https://whimsical.com/WchrUUDPRet34Ubq93P8aS)
-
 ![Flowchart](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Algorithm/Flowchart2.png)
 
 ## Reference
