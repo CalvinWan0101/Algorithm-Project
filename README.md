@@ -24,6 +24,9 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
 - 電資二 110820058 萬祥瑞
 - 電資二 110820059 林于喬
 
+## Gale-Shapley Algorithm
+- [Note](./GaleShapleyNote/readme.md)
+
 ## Flowchart
 ![Flowchart](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Algorithm/Flowchart2.png)
 
