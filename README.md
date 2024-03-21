@@ -68,7 +68,7 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
     | 11080014   | 林佳蓉   | 未錄取     | 未錄取   | 未錄取       |
 
 ## Flowchart
-![Flowchart](https://raw.githubusercontent.com/CalvinWan0101/Algorithm-Project/main/Algorithm/Flowchart2.png)
+![Flowchart](./flowchart.png)
 
 ## Reference
 - [大學聯考分發程式及其相關問題探討](http://ip194097.ntcu.edu.tw/ungian/Chokphin/Hoagu/hunhoat/hunhoat.htm)
