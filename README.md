@@ -24,9 +24,6 @@ Firstly, the immediate benefit of this algorithm is that it allows waitlisted st
 - 電資二 110820058 萬祥瑞
 - 電資二 110820059 林于喬
 
-## Gale-Shapley Algorithm
-- [Note](./GaleShapleyNote/readme.md)
-
 ## Example
 - **科系以及該科系欲錄取人數**
     |科系代碼|欲錄取人數|
